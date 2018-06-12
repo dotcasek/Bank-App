@@ -1,0 +1,13 @@
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\bin\Debug\BigBucksBank.exe.config
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\bin\Debug\BigBucksBank.exe
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\bin\Debug\BigBucksBank.pdb
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.csprojResolveAssemblyReference.cache
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.Properties.Resources.resources
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.csproj.GenerateResource.Cache
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.exe
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.pdb
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.frmLogIn.resources
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.frmMenu.resources
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.frmReceipt.resources
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.frmDWDialog.resources
+C:\Users\dotca\Desktop\CSHARP\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.frmTransferDialog.resources
